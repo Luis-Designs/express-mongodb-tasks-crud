@@ -1,0 +1,11 @@
+# node dependencies
+node_modules/
+
+# enviroment variables
+.env
+
+# build folder
+dist/
+
+# mongo folder
+mongo-crud/
